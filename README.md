@@ -79,11 +79,6 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4>🧁 Punto de Venta — Pastelería</h4>
-      <p>Frontend para gestión de ventas: catálogo de productos, carrito de compras y registro de transacciones.</p>
-      <a href="https://github.com/PabloEsquivelCastillo/sistema_pasteleria_frontend">Ver repositorio →</a>
-    </td>
-    <td width="50%">
       <h4>🏫 SIPEI — Módulo de Docentes (UAEM)</h4>
       <p>Migración de Laravel 6 a Laravel 12, APIs RESTful, CRUD completo, bitácora de auditoría y exportación de datos a Excel/CSV/PDF.</p>
       <a href="https://github.com/PabloEsquivelCastillo">Ver perfil →</a>
@@ -92,25 +87,5 @@
 </table>
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PabloEsquivelCastillo&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloEsquivelCastillo&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloEsquivelCastillo&hide_border=true" alt="streak stats" />
-</p>
-
----
-
-### 📫 Contáctame
-
-<p align="left">
-  <a href="mailto:esquivel.juan2343@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/PabloEsquivelCastillo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 <p align="center"><i>📍 Morelos, México — Abierto a oportunidades como Desarrollador Backend / Full Stack Jr.</i></p>

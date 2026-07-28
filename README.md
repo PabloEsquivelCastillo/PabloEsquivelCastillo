@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Juan Pablo 👋</h1>
+<h1 align="center">Soy Juan Pablo</h1>
 <h3 align="center">Desarrollador Backend / Full Stack Jr.</h3>
 
 <p align="center">
